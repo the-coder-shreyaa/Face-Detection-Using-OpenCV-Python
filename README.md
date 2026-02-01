@@ -23,3 +23,9 @@ The program detects faces and displays the image with bounding boxes.
 - Face Detection using Haar Cascade
 - Image processing with OpenCV
 - Working with real images in Python
+## 📸 Output
+
+![Output 1](IMG_20260201_150849.jpg)
+![Output 2](IMG_20260201_150958.jpg)
+
+*Detected multiple faces using Haar Cascade Classifier*
